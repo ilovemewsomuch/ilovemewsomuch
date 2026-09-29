@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="./assets/download.gif" width="600">
+<img src="./Assets/download.gif" width="600">
