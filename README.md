@@ -1,6 +1,5 @@
-## Hi there 👋
-
+## Heyo!
 
 <p align="center">
-  <img src="./Assets/download.gif" width="600">
+  <img src="./Assets/download.gif" width="300">
 </p>
