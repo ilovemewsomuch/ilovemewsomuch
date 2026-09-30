@@ -2,4 +2,4 @@
   <img src="./GIF/clubpenguinbrobro.gif" width="500">
 </p>
 
-## Heyo!
+<h2 align="center">Heyo!</h2>
