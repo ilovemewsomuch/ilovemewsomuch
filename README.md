@@ -7,3 +7,8 @@
 <p align="center" style="font-size: 24px; font-weight: 600; color: white;">
   Wassup I'm Jovi and this is my GitHub. I'm 16 and I sometimes post stuff here, or in my Discord server.
 </p>
+## 
+
+<p align="center">
+  <img src="./GIF/GIF/From Klickpin.com- 1042442645009241008-pin-id-1042442645009241008.gif" width="500">
+</p>
