@@ -1,5 +1,5 @@
 ## Heyo!
 
 <p align="center">
-  <img src="./Assets/clubpenguinbrobro.gif" width="500">
+  <img src="./GIF/clubpenguinbrobro.gif" width="500">
 </p>
